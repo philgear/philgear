@@ -86,6 +86,4 @@
 * [![Engagement](https://img.shields.io/badge/Community-Google%20Maps%20Guide-lightsteelblue?style=flat)](#) [![Years](https://img.shields.io/badge/Years-12%2B-gainsboro?style=flat)](#)
 * [![Engagement](https://img.shields.io/badge/Community-Trail%20Builder-lightsteelblue?style=flat)](#) [![Years](https://img.shields.io/badge/Years-5%2B-gainsboro?style=flat)](#)
 
-<img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=philgear&show_icons=true&theme=transparent&title_color=steelblue&text_color=ffffff&icon_color=slategray&hide_border=true&rank_icon=github&layout=pie" alt="GitHub Stats Card" />
-<img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philgear&theme=transparent&title_color=steelblue&text_color=ffffff&icon_color=slategray&hide_border=true&layout=compact" alt="Top Languages Card" />
 <img height=180 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=philgear&theme=dark&background=00000000&stroke=steelblue&ring=lightsteelblue&fire=gold&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=slategray" alt="GitHub Streak Card" />

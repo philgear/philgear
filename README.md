@@ -1,89 +1,91 @@
-## Contact
+# Phil Gear
 
-[![Location](https://img.shields.io/badge/Location-Portland%2C%20Oregon-lightsteelblue?style=flat)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-philgear-lightsteelblue?logo=linkedin&style=flat)](https://www.linkedin.com/in/philgear)
-[![Email](https://img.shields.io/badge/Email-phil%40geararts.dev-darkslategrey?style=flat)](mailto:phil@geararts.dev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-philgear.biz-gainsboro?style=flat)](https://philgear.biz)
-[![Company%20Dev](https://img.shields.io/badge/Company%20Dev-geararts.dev-gainsboro?style=flat)](https://geararts.dev)
-
----
-
-## Tech Stack & Proficiencies
-
-### Primary Focus (Modern Web)
-
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B%20Mastery-steelblue?logo=javascript&style=flat)](#) [![Tailwind%20CSS](https://img.shields.io/badge/Tailwind%20CSS-Utility--First%20CSS-steelblue?logo=tailwindcss&style=flat)](#) [![Node.js](https://img.shields.io/badge/Node.js-Server%20Side%20JS-steelblue?logo=node.js&style=flat)](#) [![npm](https://img.shields.io/badge/npm-Workflow%20Automation-slategray?logo=npm&style=flat)](#) [![HTML5](https://img.shields.io/badge/HTML5-Latest%20Standards-steelblue?logo=html5&style=flat)](#) [![CSS3](https://img.shields.io/badge/CSS3-Modern%20Frameworks-steelblue?logo=css3&style=flat)](#) [![JSON](https://img.shields.io/badge/JSON-RESTful%20APIs-steelblue?style=flat)](#)
-
-### UX/UI Design & Visual
-
-[![Figma](https://img.shields.io/badge/Figma-Prototyping%20Expert-midnightblue?logo=figma&style=flat)](#) [![Visual%20Design](https://img.shields.io/badge/Visual%20Design-Design%20Systems-midnightblue?style=flat)](#) [![Typography](https://img.shields.io/badge/Typography-Digital%20First-midnightblue?style=flat)](#) [![Photography](https://img.shields.io/badge/Photography-Digital%20Storytelling-midnightblue?style=flat)](#)
-
-### Agile & Workflow
-
-[![Agile](https://img.shields.io/badge/Agile-Scrum%20%7C%20Kanban-slategray?style=flat)](#) [![Git](https://img.shields.io/badge/Git-Version%20Control-slategray?logo=git&style=flat)](#) [![Cloud](https://img.shields.io/badge/Cloud-GCP%20Essentials-slategray?style=flat&logo=googlecloud)](#)
-
-### Emerging & Learning
-
-[![TypeScript](https://img.shields.io/badge/TypeScript-Future%20Stack-darkorchid?style=flat&logo=typescript)](#) [![Astro](https://img.shields.io/badge/Astro-Next--Gen%20Framework-darkorchid?style=flat&logo=astro)](#) [![AI/ML%20Awareness](https://img.shields.io/badge/AI/ML-Creative%20Applications-darkorchid?style=flat)](#)
-
-### Legacy & Past Expertise
-
-[![PHP](https://img.shields.io/badge/PHP-Proven%20Expertise-lightgrey?style=flat&logo=php)](#) [![WordPress](https://img.shields.io/badge/WordPress-CMS%20Platform-lightgrey?logo=wordpress&style=flat)](#) [![Legacy%20Code](https://img.shields.io/badge/Legacy%20Code-Maintenance%20%26%20Migration-lightgrey?style=flat)](#)
-
-### Print Production & Physical Prototyping
-
-[![Print%20Production](https://img.shields.io/badge/Print%20Production-Large%20Format-slategray?style=flat)](#) [![Embroidery](https://img.shields.io/badge/Embroidery-Digitization-slategray?style=flat)](#) [![Design%20Services](https://img.shields.io/badge/Design%20Services-Custom%20Graphics-slategray?style=flat)](#) [![Builder%20Tools](https://img.shields.io/badge/Builder%20Tools-Workflow%20Optimized-slategray?style=flat)](#)
+[![Crafted In](https://img.shields.io/badge/🌲%20Crafted%20in-The%20Oregon%20Mists-1B4D3E?style=flat-square)](https://philgearphotography.com/photo-dashboard)
+[![Coffee to Code](https://img.shields.io/badge/☕%20Fueled%20by-Pour%20Over%20%26%20Clean%20PRs-8B1E2D?style=flat-square)](#)
+[![A11y First](https://img.shields.io/badge/♿%20Design-Kind%20%26%20Accessible-162842?style=flat-square)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1B263B?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/philgear)
+[![Portfolio](https://img.shields.io/badge/Portfolio-philgear.biz-4A5568?style=flat-square)](https://philgear.biz)
+[![Email](https://img.shields.io/badge/Email-phil%40geararts.dev-8B1E2D?logo=gmail&logoColor=white&style=flat-square)](mailto:phil@geararts.dev)
 
 ---
 
-## Summary
+### Senior Full-Stack Engineer & Design Technologist
 
-**Full-Stack Developer | UX Designer (Aspiring) | Visual Innovator**
-
-22+ years **solving** ***digital challenges*** with ***code-fluency*** and ***design-thinking***.  **Tasked with** creating *impactful online experiences*, I **consistently deliver** high-performance web applications and intuitive user interfaces. Passionate about ***actionable user-centered design***, employing agile methods and ***collaborative problem-solving***.  Continuously ***up-skilling*** in next-gen technologies (TypeScript, Astro, Cloud, AI) to ***drive future innovation***. Ready to ***elevate your digital projects*** through strategic design and technical expertise.
+Multi-disciplinary engineer and Fellow with 20+ years of experience architecting resilient full-stack systems, code-first design frameworks, and automated digital production pipelines. Specializing in high-performance frontend builds, Node.js backend services, RESTful API architectures, custom type design, live event media capture, and agentic developer workflows.
 
 ---
 
-## Impact Highlights
+### Professional Affiliations & Fellowships
 
-*   **Web Innovation (22+ Years)**
-    *   [![Situation](https://img.shields.io/badge/Situation-gainsboro?style=flat)](#) Businesses needed stronger online presence.
-    *   [![Task](https://img.shields.io/badge/Task-lightsteelblue?style=flat)](#) Develop high-performance websites.
-    *   [![Action](https://img.shields.io/badge/Action-steelblue?style=flat)](#) Developed 30+ websites, enhancing User Experience & SEO.
-    *   [![Result](https://img.shields.io/badge/Result-gold?style=flat)](#) Drove growth for 30+ businesses.
-
-*   **Creative Tech & Art (GearArts)**
-    *   [![Situation](https://img.shields.io/badge/Situation-gainsboro?style=flat)](#) Explore new artistic expressions.
-    *   [![Task](https://img.shields.io/badge/Task-lightsteelblue?style=flat)](#) Integrate innovative technologies.
-    *   [![Action](https://img.shields.io/badge/Action-steelblue?style=flat)](#) Integrated AI/ML for immersive art & streamlined workflows.
-    *   [![Result](https://img.shields.io/badge/Result-gold?style=flat)](#) Expanded community engagement & artistic boundaries.
-
-*   **Event Operations Expertise (2+ Years)**
-    *   [![Situation](https://img.shields.io/badge/Situation-gainsboro?style=flat)](#) Ensure smooth & safe public events.
-    *   [![Task](https://img.shields.io/badge/Task-lightsteelblue?style=flat)](#) Manage event logistics effectively.
-    *   [![Action](https://img.shields.io/badge/Action-steelblue?style=flat)](#) Managed logistics for 20+ events collaboratively.
-    *   [![Result](https://img.shields.io/badge/Result-gold?style=flat)](#) Consistent safety & positive participant experiences, demonstrating Adaptability.
-
-*   **Continuous Learning & Future Focus**
-    *   [![Situation](https://img.shields.io/badge/Situation-gainsboro?style=flat)](#) Stay ahead in tech & UX.
-    *   [![Task](https://img.shields.io/badge/Task-lightsteelblue?style=flat)](#) Continuous professional development.
-    *   [![Action](https://img.shields.io/badge/Action-steelblue?style=flat)](#) Actively up-skilling in UX/UI, TypeScript, Astro, Cloud.
-    *   [![Result](https://img.shields.io/badge/Result-gold?style=flat)](#) Enhance user-focused solutions and drive future innovation.
+[![RSA Fellow](https://img.shields.io/badge/Fellowship-RSA%20Fellow%20(FRSA)-C29B38?style=flat-square)](#)
+[![ACM](https://img.shields.io/badge/Member-ACM-162842?logo=acm&logoColor=white&style=flat-square)](https://www.acm.org/)
+[![IEEE](https://img.shields.io/badge/Member-IEEE-1B263B?logo=ieee&logoColor=white&style=flat-square)](https://www.ieee.org/)
+[![AIGA](https://img.shields.io/badge/Design-AIGA-8B1E2D?style=flat-square)](https://www.aiga.org/)
+[![ORCID](https://img.shields.io/badge/Research-ORCID-1B4D3E?logo=orcid&logoColor=white&style=flat-square)](https://orcid.org/)
+[![Google Dev](https://img.shields.io/badge/Google-Developer%20Profile-162842?logo=google&logoColor=white&style=flat-square)](#)
 
 ---
 
-## Education
+### Technical Capabilities
 
-*   **Arizona State Online:** BSD in Graphic Design (Expected 2025-2027)
-*   **Purdue Global:** Computer Programming & Software Development
-*   **Portland CC:** Assoc. General Studies (Design & Marketing Focus)
+#### Full-Stack Architecture & APIs
+[![TypeScript](https://img.shields.io/badge/TypeScript-Full--Stack-1B263B?logo=typescript&logoColor=white&style=flat-square)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ESNext-C29B38?logo=javascript&logoColor=black&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Node.js](https://img.shields.io/badge/Node.js-Backend%20Services-1B4D3E?logo=node.js&logoColor=white&style=flat-square)](https://nodejs.org/)
+[![REST APIs](https://img.shields.io/badge/APIs-RESTful%20%2F%20JSON-8B1E2D?style=flat-square)](#)
+[![Astro](https://img.shields.io/badge/Astro-SSR%20%26%20SSG-8B1E2D?logo=astro&logoColor=white&style=flat-square)](https://astro.build/)
+[![HTML5](https://img.shields.io/badge/HTML5-Semantic%20Standards-162842?logo=html5&logoColor=white&style=flat-square)](#)
+[![CSS3](https://img.shields.io/badge/CSS3-Modern%20Architecture-4A5568?logo=css3&logoColor=white&style=flat-square)](#)
+
+#### Code-First Design, Typography & Optics
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-Design_Tokens-1B4D3E?logo=tailwindcss&logoColor=white&style=flat-square)](https://tailwindcss.com/)
+[![Material Design](https://img.shields.io/badge/Material_Design-M3_Tokens-4A5568?logo=materialdesignicons&logoColor=white&style=flat-square)](https://m3.material.io/)
+[![Type Design](https://img.shields.io/badge/Typography-Custom%20Typeface%20Eng-C29B38?style=flat-square)](#)
+[![Photography](https://img.shields.io/badge/Photography-Sony%20Alpha-162842?logo=sony&logoColor=white&style=flat-square)](#)
+[![Live Capture](https://img.shields.io/badge/Live_Capture-Event_Optics-8B1E2D?logo=sony&logoColor=white&style=flat-square)](#)
+[![UI/UX](https://img.shields.io/badge/UI%2FUX-User--Centered%20Design-1B4D3E?style=flat-square)](#)
+
+#### Agentic Engineering, DevOps & Security
+[![Antigravity](https://img.shields.io/badge/Antigravity-Agentic%20IDE-1B263B?logo=google&logoColor=white&style=flat-square)](#)
+[![MCP](https://img.shields.io/badge/MCP-Protocol%20Architecture-8B1E2D?style=flat-square)](#)
+[![Security](https://img.shields.io/badge/Environment-Container%20Sandboxing-1B4D3E?logo=docker&logoColor=white&style=flat-square)](#)
+[![Git](https://img.shields.io/badge/Version_Control-Git-8B1E2D?logo=git&logoColor=white&style=flat-square)](https://git-scm.com/)
+[![Cloud Infrastructure](https://img.shields.io/badge/Cloud-GCP%20Core-162842?logo=googlecloud&logoColor=white&style=flat-square)](https://cloud.google.com/)
+[![Agile](https://img.shields.io/badge/Methodology-Agile%20%2F%20Scrum-4A5568?style=flat-square)](#)
 
 ---
 
-## Community Engagement
+### Core Competencies & Track Record
 
-* [![Engagement](https://img.shields.io/badge/Community-PDXWLF%20Volunteer-lightsteelblue?style=flat)](#) [![Years](https://img.shields.io/badge/Years-7%2B-gainsboro?style=flat)](#)
-* [![Engagement](https://img.shields.io/badge/Community-Google%20Maps%20Guide-lightsteelblue?style=flat)](#) [![Years](https://img.shields.io/badge/Years-12%2B-gainsboro?style=flat)](#)
-* [![Engagement](https://img.shields.io/badge/Community-Trail%20Builder-lightsteelblue?style=flat)](#) [![Years](https://img.shields.io/badge/Years-5%2B-gainsboro?style=flat)](#)
+* **Full-Stack Architecture & Distributed Web Systems**
+  * Engineered 30+ production web solutions from end to end, deploying performant SSR/SSG architectures (Astro, TypeScript, Node.js) with structured REST APIs.
+  * Architecting secure client-server communication, JSON data pipelines, and containerized sandbox testing environments for third-party libraries.
 
-<img height=180 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=philgear&theme=dark&background=00000000&stroke=steelblue&ring=lightsteelblue&fire=gold&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=slategray" alt="GitHub Streak Card" />
+* **Code-First Design Systems & Interface Engineering**
+  * Building production UI directly in code utilizing **Tailwind CSS design tokens** and **Material Design (M3)** patterns, eliminating design-to-development handoff lag.
+  * Ensuring strict accessibility (WCAG/a11y), responsive fluid typography, and modular component design.
+
+* **Typeface Engineering & Vector Precision**
+  * Researching and engineering proprietary custom typefaces—focusing on OpenType features, geometric kerning tables, hinting, and variable font axes.
+  * Subsetting and optimizing WOFF2 delivery to prevent Cumulative Layout Shift (CLS) and FOIT/FOUT.
+
+* **Agentic Dev Systems & Protocol Architecture**
+  * Architecting multi-agent workflows and Model Context Protocol (MCP) server integrations within Google Antigravity to automate code audits, documentation, and asset pipelines.
+  * Developing deterministic prompt-to-code pipelines that shorten iteration cycles while preserving strict code quality.
+
+* **Live Event Documentation & Community Operations**
+  * Managed on-site logistics, safety coordination, and participant flows across 20+ public and community events in the Pacific Northwest.
+  * Executed high-pressure live event photography under volatile lighting environments, utilizing Sony Alpha systems for fast turnaround and media distribution.
+
+---
+
+### 🌲 Community Stewardship & Field Work
+
+[![Trail Stewardship](https://img.shields.io/badge/Stewardship-Trail%20Restoration%20(5%2B%20Yrs)-1B4D3E?style=flat-square)](#)
+[![Google Local Guide](https://img.shields.io/badge/Google%20Maps-Local%20Guide%20(12%2B%20Yrs)-162842?logo=googlemaps&logoColor=white&style=flat-square)](#)
+
+* **Trail & Environmental Stewardship (5+ Years)**  
+  Hands-on Pacific Northwest trail restoration, erosion control, corridor clearing, and footpath maintenance. Partnering with regional crews to preserve public outdoor trail access and protect native habitats.
+
+* **Google Maps Local Guides Contributor (12+ Years)**  
+  Long-term geographic documentation, public space verification, and accessibility mapping. Providing comprehensive pedestrian route data, transit information, and business accessibility insights to assist local communities.

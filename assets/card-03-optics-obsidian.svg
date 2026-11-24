@@ -1,0 +1,37 @@
+<svg width="920" height="166" viewBox="0 0 920 166" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Optics, Field Cartography &amp; IEEE SWEBOK Matrix">
+  <defs>
+    <pattern id="top-stamp-obsidian" width="24" height="12" patternUnits="userSpaceOnUse">
+      <path d="M 0 2.48 L 5.28 2.48 A 6.72 6.72 0 0 0 18.72 2.48 L 24 2.48 L 24 14 L 0 14 Z" fill="#0D1522"/>
+      <path d="M 0 2.48 L 5.28 2.48 A 6.72 6.72 0 0 0 18.72 2.48 L 24 2.48" fill="none" stroke="#60A5FA" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+    </pattern>
+    <pattern id="bot-stamp-obsidian" width="24" height="12" patternUnits="userSpaceOnUse">
+      <path d="M 0 9.52 L 5.28 9.52 A 6.72 6.72 0 0 1 18.72 9.52 L 24 9.52 L 24 -2 L 0 -2 Z" fill="#0D1522"/>
+      <path d="M 0 9.52 L 5.28 9.52 A 6.72 6.72 0 0 1 18.72 9.52 L 24 9.52" fill="none" stroke="#1E293B" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+    </pattern>
+  </defs>
+
+  <!-- Transparent die-cut top scissor edge -->
+  <rect x="0" y="0" width="920" height="12" fill="url(#top-stamp-obsidian)"/>
+
+  <!-- Card body -->
+  <rect x="0" y="11" width="920" height="144" fill="#0D1522"/>
+  <line x1="0.5" y1="11" x2="0.5" y2="155" stroke="#1E293B" stroke-width="1"/>
+  <line x1="919.5" y1="11" x2="919.5" y2="155" stroke="#1E293B" stroke-width="1"/>
+  <!-- Left Parachute accent rail -->
+  <rect x="0" y="11" width="4" height="144" fill="#60A5FA"/>
+
+  <!-- Blade stamp & scissor emblem -->
+  <rect x="28" y="22" width="300" height="20" rx="2" fill="#090D16" stroke="#1E293B" stroke-width="1"/>
+  <text x="38" y="36" fill="#60A5FA" font-family="'PocketGull Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="700" letter-spacing="1.1">BLADE 03 · ARCHIVAL POSTAGE PERFORATION</text>
+  <g transform="translate(864,16) scale(0.6)"><g transform="rotate(14 28 32)"><path d="M 20 30 L 57 30.5 L 54 36 L 20 35 Z" fill="#64748B" stroke="#1E293B" stroke-width="1"/><rect x="4" y="27.5" width="19" height="12.5" rx="6.25" fill="none" stroke="#60A5FA" stroke-width="4.2"/></g><g transform="rotate(-13 28 32)"><path d="M 20 27 L 24 27 L 57 28 L 54 32.5 L 20 32 Z" fill="#CBD5E1" stroke="#1E293B" stroke-width="1"/><path d="M 24 26.2 L 28 26.2 A 2 2 0 0 0 32 26.2 L 36 26.2 A 2 2 0 0 0 40 26.2 L 44 26.2 A 2 2 0 0 0 48 26.2 L 57 28" fill="none" stroke="#60A5FA" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/><circle cx="13" cy="28" r="6.5" fill="none" stroke="#60A5FA" stroke-width="4.2"/></g><circle cx="28" cy="32" r="2.8" fill="#F59E0B" stroke="#090D16" stroke-width="1"/></g>
+
+  <!-- Title & calm two-line description -->
+  <text x="28" y="64" fill="#F8FAFC" font-family="'PocketGull Slab Bold', 'PocketGull', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="800" letter-spacing="-0.2">Optics, Field Cartography &amp; IEEE SWEBOK Matrix</text>
+  <text x="28" y="87" fill="#CBD5E1" font-family="'PocketGull', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13.5">80,000+ empirical EXIF archive (PhotoTrek &amp; Orbitera), NOAA/USNO solar ephemeris, Leave No Trace</text>
+  <text x="28" y="106" fill="#CBD5E1" font-family="'PocketGull', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13.5">privacy geofencing, CIE S 026 darkroom ergonomics, and a 24-year career mapped to 16 IEEE SWEBOK areas.</text>
+
+  <rect x="28" y="118" width="113" height="22" rx="3" fill="#090D16" stroke="#1E293B" stroke-width="1"/><text x="37" y="133" fill="#94A3B8" font-family="'PocketGull Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="600">Flutter &amp; Dart</text><rect x="149" y="118" width="65" height="22" rx="3" fill="#090D16" stroke="#1E293B" stroke-width="1"/><text x="158" y="133" fill="#94A3B8" font-family="'PocketGull Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="600">Astro 5</text><rect x="222" y="118" width="126" height="22" rx="3" fill="#090D16" stroke="#1E293B" stroke-width="1"/><text x="231" y="133" fill="#94A3B8" font-family="'PocketGull Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="600">CIE S 026 Optics</text><rect x="356" y="118" width="140" height="22" rx="3" fill="#090D16" stroke="#1E293B" stroke-width="1"/><text x="365" y="133" fill="#94A3B8" font-family="'PocketGull Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="600">Privacy Geofencing</text><rect x="504" y="118" width="133" height="22" rx="3" fill="#090D16" stroke="#1E293B" stroke-width="1"/><text x="513" y="133" fill="#94A3B8" font-family="'PocketGull Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="600">IEEE SWEBOK v4.0a</text>
+
+  <!-- Transparent die-cut bottom scissor edge -->
+  <rect x="0" y="154" width="920" height="12" fill="url(#bot-stamp-obsidian)"/>
+</svg>

@@ -13,24 +13,47 @@
 
 I spent two decades behind a camera and studying 400 years of type and design before turning programmer. Today I backpropagate that craft—and modern safety evaluations—into open-source fonts, local-first software, and grounded clinical AI from Portland, Oregon (`FRSA`).
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/scissor-divider-obsidian.svg">
+  <img alt="Workshop Bench — 4-Blade Restraint" src="assets/scissor-divider-washi.svg" width="100%">
+</picture>
 
-### What I Work On
+<a href="https://github.com/pocketgull-app/pocketgull">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-01-clinical-obsidian.svg">
+    <img alt="PocketGull — Clinical AI & OpenType v4.0" src="assets/card-01-clinical-washi.svg" width="100%">
+  </picture>
+</a>
 
-| Area | Selected Work | Stack & Standards |
-| :--- | :--- | :--- |
-| **Clinical AI & OpenType** | [**PocketGull**](https://font.pocketgull.app) — Open-source medical typography (`Louise Sloan 5:1`, `ISMP` `10.0 mg` vs. `10 mg` decimal safety, `6,600–9,740+` glyphs across Latin, ASL, Braille, STEM & world scripts) paired with clinical care-coordination workflows | `SIL OFL 1.1` · `HL7 FHIR R4` · `Angular 22` · `Python FastAPI` · `Google Gemma` · `UK AISI Inspect AI` · `Observatory 125/100` |
-| **Quiet Local-First Tools** | [**GrowThyself · Atelier T-90**](https://growthyself.philgear.dev) (Braun-inspired tactile console), **Hearth & Sett** (in-browser lineage analytics), [**InsightSpark**](https://spark.philgear.dev) (on-device browser AI), and [**Hush**](https://hussh.tech) (edge acoustic awareness) | `DuckDB-WASM` · `Apache Parquet` · `Chrome Gemini Nano` · `W3C WebMCP` · `Arduino UNO Q (Linux SoC + STM32 RPC)` · `WCAG AAA` |
-| **Optics & Field Systems** | [**PhotoTrek Journey**](https://philgearphotography.com) & **Orbitera** — `80,000+` empirical EXIF archive with NOAA/USNO solar ephemeris, `6,400+` endurance athletes photographed, and Leave No Trace residential privacy geofencing | `Flutter` · `Dart` · `Astro 5` · `CIE S 026` Melanopic Ergonomics · `Sony Alpha` |
+<sub>↳ <b>Switchboard:</b> <a href="https://pocketgull.app">PocketGull Live ↗</a> · <a href="https://font.pocketgull.app">Typefoundry Specimen ↗</a> · <a href="https://github.com/pocketgull-app/pocketgull"><code>pocketgull-app/pocketgull</code> →</a> · <a href="https://github.com/pocketgull-app/pocketgull-font"><code>pocketgull-app/pocketgull-font</code> →</a></sub>
 
----
+<br /><br />
 
-### Field & Community Stewardship
+<a href="https://github.com/philgear/growthyself">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-02-localfirst-obsidian.svg">
+    <img alt="Quiet Local-First Tools" src="assets/card-02-localfirst-washi.svg" width="100%">
+  </picture>
+</a>
 
-* **Pacific Northwest Trail Stewardship (5+ Years):** Hands-on trail restoration, erosion control, corridor clearing, and native habitat protection with regional volunteer crews.
-* **Google Maps Local Guides (12+ Years):** Long-term pedestrian route verification and public accessibility mapping across the Pacific Northwest.
-* **Fellowships & Societies:** Fellow of the Royal Society of Arts (`FRSA`, London) · `ACM SIGGRAPH` · `IEEE` · `AIGA`
+<sub>↳ <b>Switchboard:</b> <a href="https://growthyself.philgear.dev">GrowThyself T-90 ↗</a> (<a href="https://github.com/philgear/growthyself"><code>code</code></a>) · <a href="https://spark.philgear.dev">InsightSpark WebMCP ↗</a> (<a href="https://github.com/philgear/InsightSpark"><code>code</code></a>) · <a href="https://hussh.tech">Hush Edge Audio ↗</a> (<a href="https://github.com/philgear/hussh"><code>code</code></a>)</sub>
 
----
+<br /><br />
 
-<sub>Read the full essay: <a href="https://philgear.dev/writings/backpropagating-400-years-of-design">Backpropagating 400 Years of Design</a> · Explore the interactive <a href="https://philgear.dev/matrix?view=swebok">IEEE SWEBOK v4.0a Career Matrix</a> · Contact: <a href="mailto:philgear@gmail.com">philgear@gmail.com</a></sub>
+<a href="https://philgear.dev/matrix?view=swebok">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-03-optics-obsidian.svg">
+    <img alt="Optics, Field Cartography & IEEE SWEBOK Matrix" src="assets/card-03-optics-washi.svg" width="100%">
+  </picture>
+</a>
+
+<sub>↳ <b>Switchboard:</b> <a href="https://philgear.dev/matrix?view=swebok">Interactive SWEBOK Matrix ↗</a> · <a href="https://philgearphotography.com">PhotoTrek Archive ↗</a> · <a href="https://github.com/philgear/phototrek-journey-flutter"><code>philgear/phototrek-journey-flutter</code> →</a> · <a href="https://github.com/philgear/mindful-breathing-visualizer"><code>mindful-breathing-visualizer</code> →</a></sub>
+
+<br /><br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/scissor-colophon-obsidian.svg">
+  <img alt="Verification & Stewardship Colophon" src="assets/scissor-colophon-washi.svg" width="100%">
+</picture>
+
+<sub><b>Field & Community:</b> Pacific Northwest Trail Stewardship (5+ yrs) · Google Maps Local Guides (12+ yrs) · Fellow of the Royal Society of Arts (<code>FRSA</code>) · <code>ACM SIGGRAPH</code> · <code>IEEE</code> · <code>AIGA</code> · <a href="mailto:philgear@gmail.com">philgear@gmail.com</a></sub>

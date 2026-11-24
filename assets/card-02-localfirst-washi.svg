@@ -1,0 +1,37 @@
+<svg width="920" height="166" viewBox="0 0 920 166" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Quiet Local-First Tools — Built for Your Own Hardware">
+  <defs>
+    <pattern id="top-deckle-washi" width="64" height="12" patternUnits="userSpaceOnUse">
+      <path d="M 0 7.55 L 3.2 7.47 L 6.4 7.05 L 9.6 7.37 L 12.8 7.37 L 16 6.98 L 19.2 7.71 L 22.4 9.18 L 25.6 8.84 L 28.8 6.35 L 32 4.45 L 35.2 4.53 L 38.4 4.95 L 41.6 4.63 L 44.8 4.63 L 48 5.02 L 51.2 4.29 L 54.4 2.82 L 57.6 3.16 L 60.8 5.65 L 64 7.55 L 64 14 L 0 14 Z" fill="#FAF8F3"/>
+      <path d="M 0 7.55 L 3.2 7.47 L 6.4 7.05 L 9.6 7.37 L 12.8 7.37 L 16 6.98 L 19.2 7.71 L 22.4 9.18 L 25.6 8.84 L 28.8 6.35 L 32 4.45 L 35.2 4.53 L 38.4 4.95 L 41.6 4.63 L 44.8 4.63 L 48 5.02 L 51.2 4.29 L 54.4 2.82 L 57.6 3.16 L 60.8 5.65 L 64 7.55" fill="none" stroke="#915907" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+    </pattern>
+    <pattern id="bot-deckle-washi" width="64" height="12" patternUnits="userSpaceOnUse">
+      <path d="M 0 4.45 L 3.2 4.53 L 6.4 4.95 L 9.6 4.63 L 12.8 4.63 L 16 5.02 L 19.2 4.29 L 22.4 2.82 L 25.6 3.16 L 28.8 5.65 L 32 7.55 L 35.2 7.47 L 38.4 7.05 L 41.6 7.37 L 44.8 7.37 L 48 6.98 L 51.2 7.71 L 54.4 9.18 L 57.6 8.84 L 60.8 6.35 L 64 4.45 L 64 -2 L 0 -2 Z" fill="#FAF8F3"/>
+      <path d="M 0 4.45 L 3.2 4.53 L 6.4 4.95 L 9.6 4.63 L 12.8 4.63 L 16 5.02 L 19.2 4.29 L 22.4 2.82 L 25.6 3.16 L 28.8 5.65 L 32 7.55 L 35.2 7.47 L 38.4 7.05 L 41.6 7.37 L 44.8 7.37 L 48 6.98 L 51.2 7.71 L 54.4 9.18 L 57.6 8.84 L 60.8 6.35 L 64 4.45" fill="none" stroke="#DED7C8" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+    </pattern>
+  </defs>
+
+  <!-- Transparent die-cut top scissor edge -->
+  <rect x="0" y="0" width="920" height="12" fill="url(#top-deckle-washi)"/>
+
+  <!-- Card body -->
+  <rect x="0" y="11" width="920" height="144" fill="#FAF8F3"/>
+  <line x1="0.5" y1="11" x2="0.5" y2="155" stroke="#DED7C8" stroke-width="1"/>
+  <line x1="919.5" y1="11" x2="919.5" y2="155" stroke="#DED7C8" stroke-width="1"/>
+  <!-- Left Parachute accent rail -->
+  <rect x="0" y="11" width="4" height="144" fill="#915907"/>
+
+  <!-- Blade stamp & scissor emblem -->
+  <rect x="28" y="22" width="221" height="20" rx="2" fill="#F2EEE4" stroke="#DED7C8" stroke-width="1"/>
+  <text x="38" y="36" fill="#915907" font-family="'PocketGull Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="700" letter-spacing="1.1">BLADE 02 · DECKLE TORN WASHI</text>
+  <g transform="translate(864,16) scale(0.6)"><g transform="rotate(14 28 32)"><path d="M 20 30 L 57 30.5 L 54 36 L 20 35 Z" fill="#475569" stroke="#DED7C8" stroke-width="1"/><rect x="4" y="27.5" width="19" height="12.5" rx="6.25" fill="none" stroke="#915907" stroke-width="4.2"/></g><g transform="rotate(-13 28 32)"><path d="M 20 27 L 24 27 L 57 28 L 54 32.5 L 20 32 Z" fill="#94A3B8" stroke="#DED7C8" stroke-width="1"/><path d="M 24 26.8 L 27 25.1 L 31 26.4 L 35 24.7 L 40 26.7 L 44 25.0 L 49 26.2 L 53 24.9 L 57 28" fill="none" stroke="#915907" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/><circle cx="13" cy="28" r="6.5" fill="none" stroke="#915907" stroke-width="4.2"/></g><circle cx="28" cy="32" r="2.8" fill="#B8893A" stroke="#F2EEE4" stroke-width="1"/></g>
+
+  <!-- Title & calm two-line description -->
+  <text x="28" y="64" fill="#161B22" font-family="'PocketGull Slab Bold', 'PocketGull', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="800" letter-spacing="-0.2">Quiet Local-First Tools — Built for Your Own Hardware</text>
+  <text x="28" y="87" fill="#3F444C" font-family="'PocketGull', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13.5">GrowThyself Atelier T-90 (Braun-inspired rotary console), Hearth &amp; Sett (2,300+ lineages in browser),</text>
+  <text x="28" y="106" fill="#3F444C" font-family="'PocketGull', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13.5">InsightSpark (Chrome Built-in AI Gemini Nano &amp; W3C WebMCP), and Hush (Arduino UNO Q edge audio).</text>
+
+  <rect x="28" y="118" width="92" height="22" rx="3" fill="#F2EEE4" stroke="#DED7C8" stroke-width="1"/><text x="37" y="133" fill="#6E6A61" font-family="'PocketGull Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="600">DuckDB-WASM</text><rect x="128" y="118" width="113" height="22" rx="3" fill="#F2EEE4" stroke="#DED7C8" stroke-width="1"/><text x="137" y="133" fill="#6E6A61" font-family="'PocketGull Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="600">Apache Parquet</text><rect x="249" y="118" width="140" height="22" rx="3" fill="#F2EEE4" stroke="#DED7C8" stroke-width="1"/><text x="258" y="133" fill="#6E6A61" font-family="'PocketGull Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="600">Chrome Gemini Nano</text><rect x="397" y="118" width="86" height="22" rx="3" fill="#F2EEE4" stroke="#DED7C8" stroke-width="1"/><text x="406" y="133" fill="#6E6A61" font-family="'PocketGull Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="600">W3C WebMCP</text><rect x="491" y="118" width="133" height="22" rx="3" fill="#F2EEE4" stroke="#DED7C8" stroke-width="1"/><text x="500" y="133" fill="#6E6A61" font-family="'PocketGull Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="600">Arduino UNO Q RPC</text>
+
+  <!-- Transparent die-cut bottom scissor edge -->
+  <rect x="0" y="154" width="920" height="12" fill="url(#bot-deckle-washi)"/>
+</svg>

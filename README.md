@@ -57,3 +57,5 @@ I spent two decades behind a camera and studying 400 years of type and design be
 </picture>
 
 <sub><b>Field & Community:</b> Pacific Northwest Trail Stewardship (5+ yrs) · Google Maps Local Guides (12+ yrs) · Fellow of the Royal Society of Arts (<code>FRSA</code>) · <code>ACM SIGGRAPH</code> · <code>IEEE</code> · <code>AIGA</code> · <a href="mailto:philgear@gmail.com">philgear@gmail.com</a></sub>
+
+<sub><b>Independent Work:</b> All open-source code, typography, and writings are authored independently by Phillip Gear (GearArts LLC / PocketGull LLC) on personal time and equipment—views and artifacts are my own and not affiliated with any employer (<a href="https://philgear.dev/disclosures">Disclosures ↗</a>).</sub>
